@@ -1,4 +1,4 @@
-# URL Shortener
+## URL Shortener
 
 # Introduction
 This is a simple URL shortening service built using HTML, CSS, JavaScript, Node.js, and MongoDB. It allows users to input a long URL and receive a shortened version that redirects to the original URL.
